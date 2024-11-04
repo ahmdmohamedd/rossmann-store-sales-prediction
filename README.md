@@ -24,15 +24,10 @@ The dataset used in this project is the **Rossmann Store Sales** dataset, which 
 
 To replicate the project on your local machine, follow these steps:
 
-1. Clone the repository:
+- Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/rossmann-store-sales-prediction.git
+   git clone https://github.com/ahmdmohamedd/rossmann-store-sales-prediction.git
    cd rossmann-store-sales-prediction
-   ```
-
-2. Install the required packages:
-   ```bash
-   pip install -r requirements.txt
    ```
 
 ## Usage
